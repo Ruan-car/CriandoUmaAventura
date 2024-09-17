@@ -8,6 +8,8 @@ margin{
 body{
     -webkit-margin-collapse: collapse;
   margin-top: 25px;  
+    height: 500px;
+    
     
     background-color: grey;
 }
