@@ -36,4 +36,13 @@ button{
    background-color: white;
 
 }
- 
+/*
+ .passo{
+  display:none;
+
+ }
+  */
+.passoAtual{
+   display:block;
+
+}
