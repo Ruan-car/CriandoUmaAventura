@@ -34,7 +34,7 @@ div{
 button{
     font-size: 30px;
    background-color: white;
-
+   cursor: pointer;
 }
 /*
  .passo{
